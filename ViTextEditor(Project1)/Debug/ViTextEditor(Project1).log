@@ -1,0 +1,49 @@
+﻿  Command.cpp
+  Editor.cpp
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\linkedlist.h(45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alane\source\repos\vitexteditor(project1)\vistuff\linkedlist.h(51): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\linkedlist.h(50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\linkedlist.inl(26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\linkedlist.inl(244): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarytreeinterface.h(65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarytreeinterface.h(84): note: see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarynodetree.h(85): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarynodetree.h(104): note: see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarynodetree.h(90): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarynodetree.inl(295): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarynodetree.inl(329): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.h(73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.h(92): note: see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.h(74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.h(78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.inl(226): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.inl(236): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.inl(261): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\editor.cpp(34): warning C4101: 'coord': unreferenced local variable
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\editor.cpp(46): warning C4101: 'j': unreferenced local variable
+  main.cpp
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\linkedlist.h(45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alane\source\repos\vitexteditor(project1)\vistuff\linkedlist.h(51): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\linkedlist.h(50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\linkedlist.inl(26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\linkedlist.inl(244): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarytreeinterface.h(65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarytreeinterface.h(84): note: see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarynodetree.h(85): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarynodetree.h(104): note: see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarynodetree.h(90): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarynodetree.inl(295): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarynodetree.inl(329): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.h(73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.h(92): note: see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.h(74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.h(78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.inl(226): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.inl(236): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\binarysearchtree.inl(261): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alane\source\repos\vitexteditor(project1)\vistuff\main.cpp(26): warning C4101: 'length': unreferenced local variable
+  NotFoundException.cpp
+  PrecondViolatedExcept.cpp
+  Generating Code...
+  ViTextEditor(Project1).vcxproj -> C:\Users\alane\source\repos\ViTextEditor(Project1)\Debug\ViTextEditor(Project1).exe
